@@ -42,7 +42,7 @@ inspected live on new test data.
 ## c. GitHub Repository Link
 
 > **TODO:** Replace with your repository URL after pushing, e.g.
-> `https://github.com/<your-username>/<your-repo-name>`
+> https://github.com/rahulsa997/Rahul_Saxena_AIML
 
 Repository contains: `app.py`, `requirements.txt`, `README.md`,
 `test_data.csv`, and `model/` (training script, saved model files, scaler,
